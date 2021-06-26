@@ -1,4 +1,4 @@
-# Hibrid Training of Neaural Network
+# Hybrid Training of Neaural Network
 Artificial life projects for the the University of Sussex AI and Adaptive systems Master 2020.
 
 The project focus on hybrid training of feedforward neural network, a combination of genetic algorithm and classic multilayer perceptrons.
